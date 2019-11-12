@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\gueesinggame\gueesinggame\bin\Debug\netcoreapp3.0\gueesinggame.exe
+C:\Users\User\source\repos\gueesinggame\gueesinggame\bin\Debug\netcoreapp3.0\gueesinggame.deps.json
+C:\Users\User\source\repos\gueesinggame\gueesinggame\bin\Debug\netcoreapp3.0\gueesinggame.runtimeconfig.json
+C:\Users\User\source\repos\gueesinggame\gueesinggame\bin\Debug\netcoreapp3.0\gueesinggame.runtimeconfig.dev.json
+C:\Users\User\source\repos\gueesinggame\gueesinggame\bin\Debug\netcoreapp3.0\gueesinggame.dll
+C:\Users\User\source\repos\gueesinggame\gueesinggame\bin\Debug\netcoreapp3.0\gueesinggame.pdb
+C:\Users\User\source\repos\gueesinggame\gueesinggame\obj\Debug\netcoreapp3.0\gueesinggame.csprojAssemblyReference.cache
+C:\Users\User\source\repos\gueesinggame\gueesinggame\obj\Debug\netcoreapp3.0\gueesinggame.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\gueesinggame\gueesinggame\obj\Debug\netcoreapp3.0\gueesinggame.AssemblyInfo.cs
+C:\Users\User\source\repos\gueesinggame\gueesinggame\obj\Debug\netcoreapp3.0\gueesinggame.dll
+C:\Users\User\source\repos\gueesinggame\gueesinggame\obj\Debug\netcoreapp3.0\gueesinggame.pdb
